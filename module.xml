@@ -16,7 +16,7 @@
 		*1.2.3.1* bump for rc1
 		*1.2.3* Add he_IL translation
 	</changelog>
-	<location>release/2.5/customerdb-2.5.0.3.tgz</location>
-	<md5sum>7c2af4ef858ee56de9379ad1b2f51683</md5sum>
+	<location>contributed_modules/release/customerdb-2.5.0.3.tgz</location>
+	<md5sum>50db51a55ebbb2de8490edb5cee94c35</md5sum>
 </module>
 
