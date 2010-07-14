@@ -1,7 +1,7 @@
 <module>
 	<rawname>customerdb</rawname>
 	<name>Customer DB</name>
-	<version>2.5.0.3</version>
+	<version>2.5.0.4</version>
 	<type>tool</type>
 	<category>Third Party Addon</category>
 	<menuitems>
@@ -17,7 +17,7 @@
 		*1.2.3.1* bump for rc1
 		*1.2.3* Add he_IL translation
 	</changelog>
-	<location>contributed_modules/release/customerdb-2.5.0.3.tgz</location>
-	<md5sum>396c72e661660c5c42d2795ed059f90f</md5sum>
+	<location>contributed_modules/release/customerdb-2.5.0.4.tgz</location>
+	<md5sum>e3c194354948e73ff1cb3d28a25441c7</md5sum>
 </module>
 
