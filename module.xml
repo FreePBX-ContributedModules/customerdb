@@ -8,6 +8,7 @@
 		<customerdb>Customer DB</customerdb>
 	</menuitems>
 	<changelog>
+		*2.5.0.4* localization updates
 		*2.5.0.3* localization enclosures
 		*2.5.0.2* #2987 sqlite3 install script changes
 		*2.5.0.1* #2781 allow sqlite table creation
@@ -17,6 +18,6 @@
 		*1.2.3* Add he_IL translation
 	</changelog>
 	<location>contributed_modules/release/customerdb-2.5.0.3.tgz</location>
-	<md5sum>50db51a55ebbb2de8490edb5cee94c35</md5sum>
+	<md5sum>396c72e661660c5c42d2795ed059f90f</md5sum>
 </module>
 
